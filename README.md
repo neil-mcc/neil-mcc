@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hey there, I’m Neil
 
-<!--
-**neil-mcc/neil-mcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Dev | UI Enthusiast | Learning React 🚀
 
-Here are some ideas to get you started:
+I’m a frontend developer who loves building clean, functional, and user-friendly interfaces.  
+Most of my experience has been with enterprise web apps, but lately I’ve been diving deeper into the **modern frontend world** — especially **React**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Exploring
+- ⚛️ Building cool stuff with **React** and **TypeScript**
+- 💅 Playing around with **Tailwind**, **Next.js**, and modern UI libraries
+- 🧠 Learning better ways to structure frontend projects
+- 🎨 Improving my design sense and accessibility skills
+
+---
+
+## 🧰 Tech Stack
+**Comfortable with:**  
+HTML • CSS • JavaScript (ES6+) • REST APIs  
+
+**Currently learning & experimenting:**  
+React • TypeScript • Next.js • Tailwind CSS  
+
+**Tools I use a lot:**  
+VS Code • Git • GitHub • Figma • Postman  
+
+---
+
+## 🚧 Side Projects
+I like creating small projects to practice new things — from React components and dashboards to random fun UI ideas.  
+Check out my repos to see what I’ve been tinkering with!
+
+---
+
+## 🎯 Goals
+- Get solid React experience by building real-world projects  
+- Contribute to open source (or team up on something fun!)  
+- Keep learning and leveling up as a frontend dev  
+
+---
