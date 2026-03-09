@@ -1,41 +1,21 @@
-# 👋 Hey there, I’m Neil
+# Neil McClelland
 
-### Frontend Dev | UI Enthusiast | Learning React 🚀
+Frontend developer, mostly working on enterprise web apps. Recently got into React and have been spending my free time building things with it.
 
-I’m a frontend developer who loves building clean, functional, and user-friendly interfaces.  
-Most of my experience has been with enterprise web apps, but lately I’ve been diving deeper into the **modern frontend world** — especially **React**.
+## What I'm working with
 
----
+**Day-to-day:** HTML, CSS, JavaScript, REST APIs
 
-## 🌱 Currently Exploring
-- ⚛️ Building cool stuff with **React** and **TypeScript**
-- 💅 Playing around with **Tailwind**, **Next.js**, and modern UI libraries
-- 🧠 Learning better ways to structure frontend projects
-- 🎨 Improving my design sense and accessibility skills
+**Learning:** React, TypeScript, Next.js, Tailwind CSS
 
----
+**Tools:** VS Code, Git, Figma, Postman
 
-## 🧰 Tech Stack
-**Comfortable with:**  
-HTML • CSS • JavaScript (ES6+) • REST APIs  
+## What I'm up to
 
-**Currently learning & experimenting:**  
-React • TypeScript • Next.js • Tailwind CSS  
+Picking up React and TypeScript by building small projects — dashboards, UI experiments, that kind of thing. Browse the repos if you're curious.
 
-**Tools I use a lot:**  
-VS Code • Git • GitHub • Figma • Postman  
+## Goals
 
----
-
-## 🚧 Side Projects
-I like creating small projects to practice new things — from React components and dashboards to random fun UI ideas.  
-Check out my repos to see what I’ve been tinkering with!
-
----
-
-## 🎯 Goals
-- Get solid React experience by building real-world projects  
-- Contribute to open source (or team up on something fun!)  
-- Keep learning and leveling up as a frontend dev  
-
----
+- Get comfortable building full React apps, not just toy examples
+- Contribute to open source at some point
+- Generally get better at frontend architecture
