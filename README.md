@@ -1,21 +1,23 @@
 # Neil McClelland
 
-Frontend developer, mostly working on enterprise web apps. Recently got into React and have been spending my free time building things with it.
+Frontend developer working on enterprise web apps. Outside of that I build with React, TypeScript, and Node.js, and tinker with LLM APIs.
 
 ## What I'm working with
 
 **Day-to-day:** HTML, CSS, JavaScript, REST APIs
 
-**Learning:** React, TypeScript, Next.js, Tailwind CSS
+**Side projects:** React, TypeScript, Node.js, LLM APIs
 
-**Tools:** VS Code, Git, Figma, Postman
+**Exploring:** Next.js, Tailwind CSS, AI agents
+
+**Tools:** VS Code, Git, Claude Code, Figma, Postman
 
 ## What I'm up to
 
-Picking up React and TypeScript by building small projects — dashboards, UI experiments, that kind of thing. Browse the repos if you're curious.
+Building things with React and TypeScript — dashboards, UI experiments, and a few projects wired up to LLM APIs. Browse the repos if you're curious.
 
 ## Goals
 
-- Get comfortable building full React apps, not just toy examples
-- Contribute to open source at some point
-- Generally get better at frontend architecture
+- Contribute to open source
+- Get better at frontend architecture and full-stack TypeScript
+- Build more with AI agents and modern tooling
